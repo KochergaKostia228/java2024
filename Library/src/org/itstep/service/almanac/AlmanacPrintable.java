@@ -1,8 +1,6 @@
 package org.itstep.service.almanac;
 
 import org.itstep.model.Almanac;
-import org.itstep.model.Book;
-import org.itstep.service.book.BookPrintableInterface;
 
 public class AlmanacPrintable implements AlmanacPrintableInterface {
     @Override

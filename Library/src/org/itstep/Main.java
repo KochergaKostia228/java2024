@@ -1,6 +1,7 @@
+package org.itstep;
+
+import itstep.model.*;
 import org.itstep.model.*;
-import org.itstep.service.newspaper.NewspaperPrintable;
-import org.itstep.service.newspaper.NewspaperPrintableInterface;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.

@@ -1,5 +1,6 @@
 package org.itstep.model;
 
+import itstep.service.publication.*;
 import org.itstep.service.publication.*;
 
 

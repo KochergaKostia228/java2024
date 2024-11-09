@@ -1,7 +1,5 @@
 package org.itstep.service.newspaper;
 
-import com.sun.net.httpserver.Headers;
-import org.itstep.model.Book;
 import org.itstep.model.Newspaper;
 
 public class NewspaperPrintable implements NewspaperPrintableInterface {

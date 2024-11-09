@@ -2,7 +2,6 @@ package org.itstep.model;
 
 import org.itstep.service.book.BookPrintable;
 import org.itstep.service.book.BookPrintableInterface;
-import org.itstep.service.newspaper.NewspaperPrintableInterface;
 
 public class Book extends Publication {
     private String author;
