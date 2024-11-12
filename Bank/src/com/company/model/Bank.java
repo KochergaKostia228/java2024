@@ -5,6 +5,10 @@ import java.util.Random;
 public class Bank {
     private ATM[] bankomates;
 
+    public Bank(){
+        bankomates = new ATM[0];
+    }
+
     public Bank(int size) {
         bankomates = new ATM[size];
         Random random = new Random();
