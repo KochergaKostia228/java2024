@@ -28,10 +28,14 @@ public class Main {
 
                 switch (choice) {
                     case 1:
-                        addATM(bank);
+                        System.out.print("Введіть максимальну кількість видачі банкнот в банкоматі: ");
+                        int maxNotes = scanner.nextInt();
+                        System.out.print("Введіть мінімальну суму зняття коштів в банкоматі: ");
+                        int minAmount = scanner.nextInt();
+                        bank.addATM(new ATM(maxNotes, minAmount));
                         break;
                     case 2:
-                        loadMoneyToATM(bank);
+                        bank.loadMoneyToATM(bank);
                         break;
                     case 3:
                         withdrawMoneyFromATM(bank);

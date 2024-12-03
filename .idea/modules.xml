@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/FileTest/FileTest.iml" filepath="$PROJECT_DIR$/FileTest/FileTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/Library/Library.iml" filepath="$PROJECT_DIR$/Library/Library.iml" />
       <module fileurl="file://$PROJECT_DIR$/Nested classes/Nested classes.iml" filepath="$PROJECT_DIR$/Nested classes/Nested classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Race/Race.iml" filepath="$PROJECT_DIR$/Race/Race.iml" />
       <module fileurl="file://$PROJECT_DIR$/StreamTest/StreamTest.iml" filepath="$PROJECT_DIR$/StreamTest/StreamTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/java2024.iml" filepath="$PROJECT_DIR$/java2024.iml" />
     </modules>
